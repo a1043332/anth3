@@ -1,0 +1,342 @@
+body {
+    font-family: Microsoft JhengHei;
+    color: #292929;
+}
+
+.questionArea {
+    width: 1024px;
+    height: 668px;
+    background-color: #F8F8F8;
+    /* border: 1px solid #000; */
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.pictureArea {
+    width: 720px;
+    height: 480px;
+    margin: 0 auto;
+    /* margin-top: 5%; */
+    /* padding-top: 50px; */
+    /* border-radius: 10px; */
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: white;
+    /* border: 1px solid black; */
+    /* border-radius: 10px; */
+    margin: 0 auto;
+}
+
+.thankYou {
+
+    width: 250px;
+    height: 100px;
+    background-color: #f6c065;
+    border: 1px solid #f6c065;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 240px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 100px;
+    font-size: 20px;
+}
+
+.btnStart {
+    font-size: 28px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 80%;
+}
+
+.mainPicture {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    margin: auto;
+
+}
+
+.answerArea {
+    width: 1024px;
+    height: 80px;
+    background-color: #FED18D;
+    border: 1px solid #FED18D;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin: 0 auto;
+}
+
+.btnYes {
+    width: 60px;
+    height: 40px;
+    margin-left: 39%;
+    margin-top: 2%;
+    display: none;
+}
+
+.btnNo {
+    width: 60px;
+    height: 40px;
+    margin-left: 10%;
+    margin-top: 2%;
+    display: none;
+}
+
+.textArea {
+    width: 750px;
+    height: 562px;
+    margin: 0 auto;
+    margin-top: 5%;
+    padding-top: 50px;
+    border-radius: 10px;
+}
+
+.textTitle {
+    width: 720px;
+    height: 130px;
+    background: #FED18D;
+    border: 1px solid #FED18D;
+    margin: 0 auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font-weight: bold;
+    padding-top: 10px;
+    text-align: center;
+    line-height: 110px;
+    font-size: 18px;
+}
+
+.recommendClass {
+    width: 720px;
+    height: 150px;
+    background: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    margin: 0 auto;
+}
+
+.recommendImg {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-top: 2%;
+    margin-left: 5%;
+}
+
+.recommendImg2 {
+    width: 90px;
+    height: 90px;
+    float: left;
+    margin-top: 2%;
+    margin-left: 5%;
+}
+
+.recommendTitle {
+    padding-left: 4%;
+    margin-top: 10%;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.recommendText {
+    padding-top: 5%;
+    padding-left: 25%;
+    width: 650px;
+    height: 100px;
+    font-weight: bold;
+    text-align: left;
+    font-size: 16px;
+}
+
+.recommenderPic {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    margin: auto;
+}
+
+.recommendClass_main {
+    padding: 20px;
+}
+
+/* 類別選項 */
+
+
+
+.textFooter {
+    width: 720px;
+    height: 110px;
+    padding-top: 2%;
+    padding-left: 3%;
+    padding-right: 3%;
+    background: #cdd0cb;
+    border: 1px solid#cdd0cb;
+    margin: 0 auto;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-weight: bold;
+    text-align: left;
+    font-size: 18px;
+}
+
+.textFooter2 {
+    width: 720px;
+    height: 400px;
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-right: 5%;
+    background: #cdd0cb;
+    border: 1px solid#cdd0cb;
+    margin: 0 auto;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-weight: bold;
+    text-align: left;
+    font-size: 20px;
+}
+
+
+.clear {
+    clear: both;
+}
+
+.btnNext {
+    float: right;
+    width: 120px;
+    height: 40px;
+    margin-right: 13%;
+    margin-top: 2%;
+}
+
+.topTitle {
+    width: 750px;
+    height: 80px;
+    background-color: #cfdac8;
+    border: 1px solid #cfdac8;
+    border-radius: 10px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 80px;
+    font-size: 26px;
+}
+
+.examplePic {
+    margin-top: 5%;
+    float: left;
+    width: 33.3333%;
+    height: 440px;
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.exampleImg {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    margin: auto;
+}
+
+.stepDescription {
+    width: 70%;
+    height: 440px;
+    margin: 0 auto;
+    margin-top: 7%;
+}
+
+.list-group-item {
+    font-size: 20px;
+}
+
+.btn1 {
+    width: 70px;
+    height: 40px;
+    margin-left: 2%;
+    margin-top: 2%;
+    float: left;
+    display: none;
+}
+
+.btn2 {
+    width: 70px;
+    height: 40px;
+    margin-left: 2%;
+    margin-top: 2%;
+    float: left;
+    display: none;
+}
+
+.btn3 {
+    width: 70px;
+    height: 40px;
+    margin-left: 2%;
+    margin-top: 2%;
+    float: left;
+    display: none;
+}
+
+.btn4 {
+    width: 70px;
+    height: 40px;
+    margin-left: 2%;
+    margin-top: 2%;
+    float: left;
+    display: none;
+}
+
+.btn5 {
+    width: 70px;
+    height: 40px;
+    margin-left: 2%;
+    margin-top: 2%;
+    float: left;
+    display: none;
+}
+
+.btn6 {
+    width: 70px;
+    height: 40px;
+    margin-left: 2%;
+    margin-top: 2%;
+    float: left;
+    display: none;
+}
+
+.buyText1 {
+    width: 100px;
+    height: 40px;
+    margin-left: 11.6%;
+    margin-top: 2%;
+    line-height: 40px;
+    float: left;
+    color: #292929;
+    display: none;
+}
+
+.buyText2 {
+    width: 100px;
+    height: 40px;
+    margin-left: 2%;
+    margin-top: 2%;
+    line-height: 40px;
+    float: left;
+    color: #292929;
+    display: none;
+}
+
+.checkBox {
+    float: left;
+    height: 80px;
+    margin-top: 85px;
+    margin-left: 125px;
+}
+
+.interactive {
+    padding-top: 200px;
+    font-size: 20px;
+    text-align: center;
+    color: #292929;
+}
